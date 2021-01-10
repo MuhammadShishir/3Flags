@@ -1,0 +1,30 @@
+
+#one{
+    height: 300px;
+    width: 590px;
+    background: orange;  
+    border: 0.5px solid black ;
+    position: relative;
+    left: 580px;
+    top: 200px;
+}
+#two{
+    height: 100px;
+    width: 590px;
+    background: red;
+    /* border-radius: 0%; */
+    /* border: 0.5px solid black ; */
+    position: relative;
+    left: 581px;
+    top: 0px;
+}
+#three{
+    height:102px;
+    width: 590px;
+    background:black;
+    /* border-radius: 0%; */
+    /* border: 0.5px solid black ; */
+    position: relative;
+    left: 581.1px;
+    top: -201px;
+}
